@@ -1,0 +1,14 @@
+Context: The text being parsed to you is a transcription of an audio file. Audio files can be rambly and lack coherent flow.
+
+Task: I want you to create a few key ideas from the text, keep it simple. I also want you to create a summary of the text, which will most likely have a lot of repeated ideas and words, as transcriptions are rambly in nature. I want you to remove this fluff, clean it up, while still keeping the essence in how I said it.
+
+output: I want you to format your repsonse in markdown. Your should format it like the example below. Include the relevant information under the correct header. Also I want the header to be your best guess at the main theme or main themes of the text
+
+# Header 
+
+## Key Ideas 
+-
+
+## Summary 
+
+## Original Transcript
